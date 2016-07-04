@@ -1,0 +1,9 @@
+D:\Projects\TemperatureSensor\TemperatureSensor\bin\Debug\TemperatureSensor.exe.config
+D:\Projects\TemperatureSensor\TemperatureSensor\bin\Debug\TemperatureSensor.exe
+D:\Projects\TemperatureSensor\TemperatureSensor\bin\Debug\TemperatureSensor.pdb
+D:\Projects\TemperatureSensor\TemperatureSensor\obj\Debug\TemperatureSensor.csprojResolveAssemblyReference.cache
+D:\Projects\TemperatureSensor\TemperatureSensor\obj\Debug\TemperatureSensor.Form1.resources
+D:\Projects\TemperatureSensor\TemperatureSensor\obj\Debug\TemperatureSensor.Properties.Resources.resources
+D:\Projects\TemperatureSensor\TemperatureSensor\obj\Debug\TemperatureSensor.csproj.GenerateResource.Cache
+D:\Projects\TemperatureSensor\TemperatureSensor\obj\Debug\TemperatureSensor.exe
+D:\Projects\TemperatureSensor\TemperatureSensor\obj\Debug\TemperatureSensor.pdb
